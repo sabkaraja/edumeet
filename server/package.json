@@ -44,6 +44,7 @@
 		"pidusage": "^2.0.17",
 		"prom-client": ">=12.0.0",
 		"redis": "^2.8.0",
+    "ec2-publicip":"*",
 		"socket.io": "^2.3.0",
 		"spdy": "^4.0.1",
 		"uuid": "^7.0.2"
